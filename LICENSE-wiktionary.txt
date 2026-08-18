@@ -1,0 +1,23 @@
+Wiktionary data license
+
+The wiktionary-ipa-*.sqlite databases are derived from Wiktionary dumps
+via kaikki.org (https://kaikki.org), which publishes parsed Wiktionary
+data in JSONL format.
+
+Wiktionary text is available under the Creative Commons Attribution-
+ShareAlike License 4.0 (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Attribution:
+- Source: Wiktionary (https://www.wiktionary.org), contributors,
+  CC BY-SA 4.0.
+- Parsed data: kaikki.org project (Tatu Ylonen), CC BY-SA 4.0.
+- Frequency filtering: FrequencyWords (https://github.com/hermitdave/
+  FrequencyWords), CC BY-SA 4.0.
+
+Derivative work by Text2Anki build scripts (tools/phonetics/
+build_wiktionary.py): selection of entries with IPA transcriptions,
+frequency filtering, SQLite packaging.
+
+You may share and adapt this data under the terms of CC BY-SA 4.0,
+including attribution to Wiktionary contributors and kaikki.org.
